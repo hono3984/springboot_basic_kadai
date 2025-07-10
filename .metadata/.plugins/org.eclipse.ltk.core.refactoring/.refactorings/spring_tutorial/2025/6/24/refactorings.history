@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;spring_tutorial/src/main/resources/templates/NewFile.html&apos; を &apos;tutorialView.html&apos; に変更します" description="リソース &apos;NewFile.html&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/NewFile.html" name="tutorialView.html" stamp="1749735439806" updateReferences="true"/>
+</session>

@@ -1,0 +1,5 @@
+package com.example.springpractice.rps;
+
+public class RockPaperScissors {
+
+}

@@ -1,0 +1,26 @@
+package com.example.springpractice.rps;
+
+public class RockPaperScissors {
+	public String judgeResult(final String myHand ,final String yourHand) {
+		
+		switch (myHand) {
+			case "グー", "チョキ", "パー" -> {}
+			default -> {return "無効試合";}
+		}
+		switch (yourHand) {
+			case "グー", "チョキ", "パー" -> {}
+			default -> {return "無効試合";}
+		}
+		
+		if(myHand.equals(yourHand)) {
+			return "あいこ";
+		} else if ((myHand.equals("グー") && yourHand.equals("チョキ")) ||
+				(myHand.equals("チョキ") && yourHand.equals("パー")) ||
+				(myHand.equals("パー") && yourHand.equals("グー"))) {
+			return "勝ち";
+		}else {
+			return "負け";
+		}
+	}
+
+}

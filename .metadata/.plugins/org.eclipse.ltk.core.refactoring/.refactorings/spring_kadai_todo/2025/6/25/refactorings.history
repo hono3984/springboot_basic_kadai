@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;data.sql&apos; to &apos;templates&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;spring_kadai_todo&apos;&#x0D;&#x0A;- 宛先要素: &apos;templates&apos;&#x0D;&#x0A;- オリジナル要素: &apos;data.sql&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="ファイルを移動する" element1="src/main/resources/data.sql" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1750515795180" target="src/main/resources/templates" units="0" version="1.0"/>
+</session>
